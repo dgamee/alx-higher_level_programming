@@ -2,7 +2,7 @@
 
 """
 Create class Rectangle that defines a rectangle by
-everything from Module 
+everything from Module
 """
 
 
